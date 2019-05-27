@@ -1,0 +1,15 @@
+C:\Users\FATİH KAYA\Desktop\Odev Proje\Hair_Salon_UI\Hair_Salon_DAL\bin\Debug\Hair_Salon_DAL.dll.config
+C:\Users\FATİH KAYA\Desktop\Odev Proje\Hair_Salon_UI\Hair_Salon_DAL\bin\Debug\Hair_Salon_DAL.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\Hair_Salon_UI\Hair_Salon_DAL\bin\Debug\Hair_Salon_DAL.pdb
+C:\Users\FATİH KAYA\Desktop\Odev Proje\Hair_Salon_UI\Hair_Salon_DAL\bin\Debug\EntityFramework.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\Hair_Salon_UI\Hair_Salon_DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\Hair_Salon_UI\Hair_Salon_DAL\bin\Debug\Hair_Salon_Entitiy.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\Hair_Salon_UI\Hair_Salon_DAL\bin\Debug\Hair_Salon_Entitiy.pdb
+C:\Users\FATİH KAYA\Desktop\Odev Proje\Hair_Salon_UI\Hair_Salon_DAL\bin\Debug\Hair_Salon_Entitiy.dll.config
+C:\Users\FATİH KAYA\Desktop\Odev Proje\Hair_Salon_UI\Hair_Salon_DAL\bin\Debug\EntityFramework.xml
+C:\Users\FATİH KAYA\Desktop\Odev Proje\Hair_Salon_UI\Hair_Salon_DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FATİH KAYA\Desktop\Odev Proje\Hair_Salon_UI\Hair_Salon_DAL\obj\Debug\Hair_Salon_DAL.csprojAssemblyReference.cache
+C:\Users\FATİH KAYA\Desktop\Odev Proje\Hair_Salon_UI\Hair_Salon_DAL\obj\Debug\Hair_Salon_DAL.csproj.CoreCompileInputs.cache
+C:\Users\FATİH KAYA\Desktop\Odev Proje\Hair_Salon_UI\Hair_Salon_DAL\obj\Debug\Hair_Salon_DAL.csproj.CopyComplete
+C:\Users\FATİH KAYA\Desktop\Odev Proje\Hair_Salon_UI\Hair_Salon_DAL\obj\Debug\Hair_Salon_DAL.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\Hair_Salon_UI\Hair_Salon_DAL\obj\Debug\Hair_Salon_DAL.pdb
